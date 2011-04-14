@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+/* Guestbook */
+#guestbook h2 {
+    padding-bottom: 5px;
+    border-bottom: 1px dotted #B4B4B4;
+    color:#996600;
+}
+#guestbook a {
+    color: blue;
+    text-decoration: underline;
+}
+#guestbook table {
+   width: 100%;
+}
+#guestbook table.submission tr td {
+    padding:3px 5px;
+}
+#guestbook table.submission table tr td img {
+    width:60px;
+}
+#guestbook table.submission table tr td input {
+    margin-top:10px;
+    margin-left:24px;
+}
+#guestbook table.submission {
+    margin-top:20px;
+    margin-bottom: 30px;
+}
+#guestbook table.submission table tr td {
+    padding-left: 0;
+}
+#guestbook table.pages {
+    margin-bottom: 20px;
+}
+#guestbook table.messages 
+{
+    border-collapse: collapse;
+}
+#guestbook table.messages tr td {
+    padding:3px 5px;
+    border:1px solid #ddd;
+}
+#guestbook table.messages tr td img {
+    margin:auto 20px 10px 20px;
+    width:60px;
+}
+#guestbook table tr.welcome td{
+    padding:0;
+    border:none;
+    color: #996600;
+}
+#guestbook table tr.welcome td table {
+    margin:0;
+}
+#guestbook table tr.header {
+    height:10px;
+    background: #f0f0f0;
+}
+#guestbook .minor {
+    font-family: "Times New Roman";
+    font-size: 10.5pt;
+}
+
+
+
