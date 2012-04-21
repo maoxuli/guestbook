@@ -89,7 +89,7 @@ foreach($data as $val){
         //format data with HTML tags
         echo "<tr class=header><td colspan=2></td></tr>";
         echo "<tr>
-                 <td width=100px align=center>".$author."</td>
+                 <td width=100px align=center><a href=".$web.">".$author."</a></td>
                  <td>".$title."</td>
              </tr>";
         echo "<tr>
