@@ -1,7 +1,7 @@
 <?php
 
-include('xml_class.php');
-include('constant.php');
+include('xml.php');
+include('config.php');
 
 //creat a object og class xml_opration
 $xml = new xml_opration;

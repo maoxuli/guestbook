@@ -1,6 +1,6 @@
 <?php
 
-include ('constant.php');
+include ('config.php');
 $id = $_GET['id'];
 
 include('header.php');

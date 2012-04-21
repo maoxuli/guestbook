@@ -9,8 +9,8 @@
 /////////////////////////////////////////////////////////////////////
 
 
-include('xml_class.php');
-include('constant.php');
+include('xml.php');
+include('config.php');
 
 //creat a object of class xml_opration
 $xml = new xml_opration;
@@ -75,7 +75,7 @@ foreach($data as $val){
             if($page == 1) {
                 echo "<tr class=welcome><td colspan=2><table><tr>
                         <td>".WELCOME_WORD."</td>
-                        <td align=right class=minor><a href=creatnew.php?id=".$id.">".NEW_LEAVE_WORD."</a></td>
+                        <td align=right class=minor><a href=create.php?id=".$id.">".NEW_LEAVE_WORD."</a></td>
                       </tr></table></td></tr>";
             }
             else {
