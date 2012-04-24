@@ -22,7 +22,7 @@
         <tr>
             <td><a href="http://www.maoxuli.com/">HOME</a></td>
             <td><a href="http://www.maoxuli.com/resume.html">RÉSUMÉ</a></td>
-            <td><a href="http://www.maoxuli.com/portfolio/">PORTFOLIO</a></td>
+            <td><a href="http://www.maoxuli.com/portfolio.html">PORTFOLIO</a></td>
             <td><a href="http://www.maoxuli.com/insights/">INSIGHTS</a></td>
             <td><a href="http://www.notdreams.com/" target="_blank">FAMILY</a></td>
         </tr>
