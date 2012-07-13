@@ -22,6 +22,7 @@ define ('TEXT_MSG_TITLE', 'Title:');
 define ('TEXT_MSG_AUTHOR', 'Name:');
 define ('TEXT_MSG_EMAIL', 'Email:');
 define ('TEXT_MSG_WEB', 'Website:');
+define ('TEXT_MSG_CODE', 'Check code:');
 define ('TEXT_MSG_CONTENT', 'Content: ');
 define ('TEXT_MSG_ICON', 'Please select a head icon:');
 define ('TEXT_SUBMIT_BUTTON', 'Submit');

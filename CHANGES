@@ -1,14 +1,8 @@
 -------
 * Debug
-* Link to author
 * Rename files of config.php create.php xml.php
-* portfolio is liked to portfolio.html
+* Add check code to create.php
 
-v0.1 (04/14/2009)
+v0.1 (04/14/2011)
 -----------------
 * XML based guestbook
-
-Initial Version (04/14/2011)
-----------------------------
-* README
-* HISTORY
